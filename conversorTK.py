@@ -9,7 +9,7 @@
 # ogg2mp3 and mp32ogg.
 # 
 # 
-# 15-6-08 coded by Kalasni
+# 15-6-08 coded by ocm128
 # Tested on FreeBSD and Ubuntu Linux
 #
 #
@@ -299,8 +299,8 @@ class Conversor(Frame):
 	def ayuda(self):
 		showinfo(
 			" About ",
-			"\nConversorTK v1.0 \nCoder: Kalasni\n"
-			"Contact: kalassni@gmail.com\n",		
+			"\nConversorTK v1.0 \nCoder: ocm128\n"
+			"Contact: tdoc@tutamail.com\n",		
 		)	
 			
 					
